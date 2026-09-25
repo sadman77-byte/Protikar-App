@@ -3,6 +3,24 @@ This is for both visual and nonvisual impaired people’s app with multiple lang
 
 https://live-location-tracke-65xs.bolt.host
 
+Process:
+GPS tracking
+↓
+Location history
+↓
+Nearby POI detection
+↓
+Distance + direction
+↓
+Automatic audio description
+↓
+Visually-impaired accessibility
+↓
+Friend tracking + emergency contact
+↓
+Browser-based / zero-install delivery
+
+
 # Protikar
 
 **Live Location Tracking & Audio Assistance for the Visually Impaired**
